@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "mainMenu": [
+      {
+        "title": "Главная",
+        "url": "/"
+      },
+      {
+        "title": "Каталог",
+        "url": "catalog"
+      },
+      {
+        "title": "О нас",
+        "url": "about-us"
+      }
+    ],
+    "extraMenu": [
+      {
+        "title": "Политика конфиденциальности",
+        "url": "#modal-confidentiality",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      },
+      {
+        "title": "Условия пользования",
+        "url": "#modal-terms",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+      }
+    ],
+    "contacts": {
+      "phone": "+7 700 505 3000",
+      "time": "с 9:00 до 18:00"
+    },
+    "currentYear": "2022"
+  }
+}

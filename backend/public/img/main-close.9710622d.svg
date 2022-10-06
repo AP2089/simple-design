@@ -1,0 +1,8 @@
+export default {
+      id: "main-close-usage",
+      viewBox: "0 0 16 16",
+      url: __webpack_public_path__ + "D:\\project\\simple-design\\frontend\\src\\assets\\sprites\\main-close.svg",
+      toString: function () {
+        return this.url;
+      }
+    }

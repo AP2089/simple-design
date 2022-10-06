@@ -1,0 +1,24 @@
+.header {
+  &__wrap {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-top: 46px;
+    min-height: 121px;
+  }
+
+  &__left {
+    margin-right: auto;
+  }
+
+  &__middle {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &__right {
+    margin-left: auto;
+  }
+}
